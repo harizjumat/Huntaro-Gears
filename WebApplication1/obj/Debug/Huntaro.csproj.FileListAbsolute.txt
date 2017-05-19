@@ -1,0 +1,35 @@
+c:\users\harizjumat\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+c:\users\harizjumat\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll
+c:\users\harizjumat\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+c:\users\harizjumat\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\obj\Debug\Huntaro.csprojResolveAssemblyReference.cache
+c:\users\harizjumat\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+c:\users\harizjumat\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\harizjumat\Documents\Visual Studio 2015\Projects\Huntaro Gears\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\harizjumat\Documents\Visual Studio 2015\Projects\Huntaro Gears\WebApplication1\bin\WebApplication1.dll
+C:\Users\harizjumat\Documents\Visual Studio 2015\Projects\Huntaro Gears\WebApplication1\bin\WebApplication1.pdb
+C:\Users\harizjumat\Documents\Visual Studio 2015\Projects\Huntaro Gears\WebApplication1\obj\Debug\Huntaro.csprojResolveAssemblyReference.cache
+C:\Users\harizjumat\Documents\Visual Studio 2015\Projects\Huntaro Gears\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\harizjumat\Documents\Visual Studio 2015\Projects\Huntaro Gears\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\harizjumat\Documents\Visual Studio 2015\Projects\Huntaro Gears\WebApplication1\bin\EntityFramework.dll
+C:\Users\harizjumat\Documents\Visual Studio 2015\Projects\Huntaro Gears\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\harizjumat\Documents\Visual Studio 2015\Projects\Huntaro Gears\WebApplication1\bin\EntityFramework.xml
+C:\Users\harizjumat\Documents\Visual Studio 2015\Projects\Huntaro Gears\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\harizjumat\Documents\Visual Studio 2015\Projects\Huntaro Gears\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\harizjumat\Documents\Visual Studio 2015\Projects\Huntaro Gears\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\harizjumat\Documents\Visual Studio 2015\Projects\Huntaro Gears\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\harizjumat\Documents\Visual Studio 2015\Projects\Huntaro Gears\WebApplication1\bin\Microsoft.Owin.dll
+C:\Users\harizjumat\Documents\Visual Studio 2015\Projects\Huntaro Gears\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\harizjumat\Documents\Visual Studio 2015\Projects\Huntaro Gears\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\harizjumat\Documents\Visual Studio 2015\Projects\Huntaro Gears\WebApplication1\bin\Microsoft.Owin.Security.dll
+C:\Users\harizjumat\Documents\Visual Studio 2015\Projects\Huntaro Gears\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\harizjumat\Documents\Visual Studio 2015\Projects\Huntaro Gears\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\harizjumat\Documents\Visual Studio 2015\Projects\Huntaro Gears\WebApplication1\bin\Owin.dll
+C:\Users\harizjumat\Documents\Visual Studio 2015\Projects\Huntaro Gears\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\harizjumat\Documents\Visual Studio 2015\Projects\Huntaro Gears\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\harizjumat\Documents\Visual Studio 2015\Projects\Huntaro Gears\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\harizjumat\Documents\Visual Studio 2015\Projects\Huntaro Gears\WebApplication1\bin\Microsoft.Owin.xml
+C:\Users\harizjumat\Documents\Visual Studio 2015\Projects\Huntaro Gears\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\harizjumat\Documents\Visual Studio 2015\Projects\Huntaro Gears\WebApplication1\bin\Microsoft.Owin.Security.xml
+C:\Users\harizjumat\Documents\Visual Studio 2015\Projects\Huntaro Gears\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\harizjumat\Documents\Visual Studio 2015\Projects\Huntaro Gears\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\harizjumat\Documents\Visual Studio 2015\Projects\Huntaro Gears\WebApplication1\bin\Newtonsoft.Json.xml

@@ -1,0 +1,64 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="huntaromaster.Master.cs" Inherits="WebApplication1.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+           
+    <title>Huntaro's Gears</title>
+    <link rel="stylesheet" href="stylehuntaro.css" type="text/css" media="screen" runat="server" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+ 
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <div id="wrapper">
+            <div id="banner">
+                <asp:Image ID="Image1" runat="server" ImageUrl="image/huntarobanner.jpg" Width="100%" />
+            </div>
+            <div id="navigation">
+                <ul id="nav">
+                    <li><asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/Default.aspx">SHOP</asp:HyperLink></li>
+                    <li><asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="~/AboutUs.aspx">About</asp:HyperLink></li>
+                    <li><asp:HyperLink ID="HyperLink4" runat="server" NavigateUrl="~/Contact.aspx">Contact</asp:HyperLink></li>
+                    <li><asp:HyperLink ID="HyperLink5" runat="server" NavigateUrl="~/Management.aspx">Management</asp:HyperLink></li>
+
+                    
+                    <li style="float:right">
+                        <asp:HyperLink ID="lnkRegister" NavigateUrl="~/Register.aspx" runat="server">Register</asp:HyperLink>
+                        <asp:HyperLink ID="litStatus" runat="server" NavigateUrl="~/ShoppingCart.aspx" ></asp:HyperLink>
+                    </li>
+
+                     <li style="float:right">
+                        <asp:HyperLink ID="lnkLogin" NavigateUrl="~/Login.aspx" runat="server">Login</asp:HyperLink>
+                         <asp:LinkButton ID="lnkLogout" runat="server" OnClick="lnkLogout_Click" style="height: 19px" >Logout</asp:LinkButton>
+                    </li>
+                        
+
+                </ul>
+            </div>
+            <div id="content">
+                           
+ 
+
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+               
+        
+        </asp:ContentPlaceHolder>
+
+                 
+        </div>
+                    
+               <div id="footer">
+                                 <p>Validator:<a href="http://validator.w3.org/check?uri=referer">Validate HTML</a> |  <a href="http://jigsaw.w3.org/css-validator/check/referer">Validate CSS</a> 
+                            </div>         
+
+        </div>
+   </div>
+       
+    </form>
+</body>
+    
+</html>
